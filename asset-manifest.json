@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/Omega/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Omega/static/js/main.522aa802.chunk.js",
-    "main.js.map": "/Omega/static/js/main.522aa802.chunk.js.map",
+    "main.js": "/Omega/static/js/main.c9e04f24.chunk.js",
+    "main.js.map": "/Omega/static/js/main.c9e04f24.chunk.js.map",
     "runtime-main.js": "/Omega/static/js/runtime-main.90a98511.js",
     "runtime-main.js.map": "/Omega/static/js/runtime-main.90a98511.js.map",
-    "static/js/2.46460176.chunk.js": "/Omega/static/js/2.46460176.chunk.js",
-    "static/js/2.46460176.chunk.js.map": "/Omega/static/js/2.46460176.chunk.js.map",
+    "static/js/2.ea6101ab.chunk.js": "/Omega/static/js/2.ea6101ab.chunk.js",
+    "static/js/2.ea6101ab.chunk.js.map": "/Omega/static/js/2.ea6101ab.chunk.js.map",
     "index.html": "/Omega/index.html",
-    "precache-manifest.8f43d2b5dd4fc26f07c5441134ac7f3c.js": "/Omega/precache-manifest.8f43d2b5dd4fc26f07c5441134ac7f3c.js",
+    "precache-manifest.45f960e04448b13886c8380c6541086c.js": "/Omega/precache-manifest.45f960e04448b13886c8380c6541086c.js",
     "service-worker.js": "/Omega/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Omega/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.46460176.chunk.js.LICENSE.txt": "/Omega/static/js/2.46460176.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Omega/static/media/logo.5d5d9eef.svg"
+    "static/js/2.ea6101ab.chunk.js.LICENSE.txt": "/Omega/static/js/2.ea6101ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.90a98511.js",
-    "static/js/2.46460176.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.522aa802.chunk.js"
+    "static/js/2.ea6101ab.chunk.js",
+    "static/js/main.c9e04f24.chunk.js"
   ]
 }
